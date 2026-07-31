@@ -1,11 +1,11 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Zéric Wendéou — Architecture SI, AMOA & Audit du parc IT",
+  title: "Zola-Zéric WENDEOU — Architecture SI, AMOA & Audit du parc IT",
   description:
-    "Portfolio d'Zéric Wendéou, ingénieur en architecture des systèmes d'information à Cotonou : audit du parc IT, AMOA, cybersécurité et développement web.",
+    "Portfolio de Zola-Zéric WENDEOU, ingénieur en architecture des systèmes d'information à Cotonou : audit du parc IT, AMOA, cybersécurité et développement web.",
   openGraph: {
-    title: "Zéric Wendéou — Architecture SI, AMOA & Audit du parc IT",
+    title: "Zola-Zéric WENDEOU — Architecture SI, AMOA & Audit du parc IT",
     description:
       "Audit de parc informatique, cadrage AMOA et développement d'applications web. Cotonou, Bénin.",
     type: "profile",

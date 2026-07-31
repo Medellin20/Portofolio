@@ -1,4 +1,4 @@
-# Portfolio — Zéric Wendéou
+# Portfolio — Zola-Zéric WENDEOU
 
 Portfolio one-page en **Next.js 14 (App Router) + React 18 + Tailwind CSS**.
 
