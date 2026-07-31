@@ -1,0 +1,70 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Next.js build/output
+.next/
+out/
+build/
+
+# Production
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs
+*.log
+logs/*
+
+# Runtime files
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Coverage
+coverage/
+
+# Compiled output
+dist/
+
+# TypeScript
+*.tsbuildinfo
+
+# Cache
+.cache/
+
+# Misc
+*.swp
+*~
+
+# Optional: Vercel
+.vercel/
+
+# Optional: Parcel
+.parcel-cache/
+
+# Optional: Firebase
+.firebase/
+
+# Optional lockfiles to ignore if using alternative package manager
+# Uncomment if you don't want to track lockfiles:
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
