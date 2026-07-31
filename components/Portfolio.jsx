@@ -420,9 +420,9 @@ export default function Portfolio({ photo = null }) {
 .pf .rain{position:absolute;inset:0;width:100%;height:100%;opacity:.5;z-index:0;pointer-events:none;-webkit-mask:linear-gradient(180deg,#000 0%,transparent 85%);mask:linear-gradient(180deg,#000 0%,transparent 85%)}
 .pf .hero-grid{position:relative;z-index:1;display:grid;grid-template-columns:minmax(0,1fr) minmax(280px,340px);gap:clamp(28px,4vw,40px);align-items:center}
 .pf .hero-grid > *{min-width:0}
-.pf .name{font-size:clamp(48px,8vw,105px);text-transform:uppercase}
-.pf .name .l1{display:block}
-.pf .name .l2{display:block;color:transparent;-webkit-text-stroke:2px var(--neon);text-shadow:0 0 30px rgba(0,224,168,.4)}
+.pf .name{width:100%;margin-inline:auto;font-size:clamp(48px,8vw,105px);text-align:center;text-transform:uppercase}
+.pf .name .l1{display:block;text-align:center}
+.pf .name .l2{display:block;text-align:center;color:transparent;-webkit-text-stroke:2px var(--neon);text-shadow:0 0 30px rgba(0,224,168,.4)}
 .pf .thesis{font-size:clamp(16px,2vw,21px);max-width:40ch;color:var(--txt);line-height:1.5;margin-top:26px;font-weight:500}
 .pf .thesis b{color:var(--neon);font-weight:700}
 .pf .role-line{font-family:'JetBrains Mono',monospace;font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--muted);margin-bottom:14px}
