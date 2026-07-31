@@ -10,6 +10,29 @@ body {
   scroll-behavior: smooth;
 }
 
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  overflow-x: hidden;
+  text-size-adjust: 100%;
+}
+
+body {
+  min-width: 280px;
+  overflow-wrap: break-word;
+}
+
+img,
+svg,
+canvas {
+  display: block;
+  max-width: 100%;
+}
+
 ::selection {
   background: #1d5b4e;
   color: #f3f5f3;
