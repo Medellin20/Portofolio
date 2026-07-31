@@ -827,7 +827,7 @@ export default function Portfolio({ photo = null }) {
             </div>
           </div>
           <div className="k" style={{ marginTop: 56, borderTop: "1px solid var(--line)", paddingTop: 18 }}>
-            © {new Date().getFullYear()} {ME.prenom} {ME.nom} — connexion terminée · Next.js · React · Tailwind
+            © {new Date().getFullYear()} {ME.prenom} {ME.nom} — connexion terminée.
           </div>
         </div>
       </footer>
