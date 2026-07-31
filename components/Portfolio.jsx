@@ -34,7 +34,7 @@ const STATS = [
   { k: "Années d'expérience", v: 5, suf: "+" },
   { k: "Modules maîtrisés", v: 25, suf: "" },
   { k: "Missions d'audit / AMOA", v: 3, suf: "" },
-  
+  { k: "Projets réalisés", v: 6, suf: "+" },
 ];
 
 const DOMAINES = ["Tout", "Front", "Back", "Données", "Infra & Cloud", "Sécurité", "Outils"];
